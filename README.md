@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420" alt="Developer & DevOps Animation" />
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://giffiles.alphacoders.com/221/221624.gif)" width="420" alt="Developer & DevOps Animation" />
 </p>
 
 ---
