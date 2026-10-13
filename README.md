@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://giffiles.alphacoders.com/221/221624.gif)" width="420" alt="Developer & DevOps Animation" />
+  <img src="[[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://giffiles.alphacoders.com/221/221624.gif)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxvaTNtMzFsaDkwNW94ODV5bXRxYnk4ODU3dHg5NDV6dnIwYXRyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EpLtMyWfZKe8uiorn9/giphy.gif)" width="420" alt="Developer & DevOps Animation" />
 </p>
 
 ---
