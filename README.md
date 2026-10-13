@@ -10,9 +10,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420" alt="Developer & DevOps Animation" />
 </p>
 
-<p align="center">
-  <em>(Replace the GIF above with your custom photo or banner anytime)</em>
-</p>
+
 
 ---
 
