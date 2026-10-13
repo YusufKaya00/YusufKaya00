@@ -32,7 +32,7 @@ focus_areas:
 * ⚙️ Automating declarative **GitOps** workflows and progressive rollouts using **ArgoCD**.
 * ☁️ Provisioning and administering cloud workloads across **AWS**, **Microsoft Azure**, and **Oracle Cloud (OCI)**.
 * 📊 Implementing observability, alerting, and telemetry stacks with **Prometheus** and **Grafana**.
-* 💻 Writing automation scripts, tooling, and backend logic with **Python**, **Bash**, **Java**, and **.NET**.
+* 💻 Writing automation scripts, tooling, interace and backend logic with **Python**, **Bash**, **Java**, and **.NET**.
 
 ---
 
