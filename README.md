@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/YusufKaya00">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cloud-Native+%26+DevOps+Engineer;Kubernetes+%26+GitOps+Practitioner;Platform+%26+Infrastructure+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Cloud-Native+%26+On-Prem+DevOps+Engineer;Kubernetes+%26+GitOps+Practitioner;Platform+%26+Infrastructure+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,12 +12,12 @@
   <tr>
     <td width="54%" valign="middle">
       <p>
-        I am a <b>Cloud-Native & DevOps Engineer</b> passionate about automating, securing, and scaling production infrastructure and delivery pipelines.
+        I am a <b>Cloud-Native & On-Prem DevOps Engineer</b> passionate about automating, securing, and scaling production infrastructure and delivery pipelines.
       </p>
       <ul>
-        <li>🔭 Engineering and administering resilient <b>Kubernetes</b> clusters.</li>
+        <li>🔭 Engineering and administering resilient <b>Kubernetes</b> clusters across cloud and on-prem environments.</li>
         <li>⚙️ Automating declarative <b>GitOps</b> delivery & rollouts with <b>ArgoCD</b>.</li>
-        <li>☁️ Multi-cloud provisioning across <b>AWS</b>, <b>Azure</b>, and <b>Oracle Cloud (OCI)</b>.</li>
+        <li>☁️ Multi-cloud and on-premises provisioning across <b>AWS</b>, <b>Azure</b>, <b>Oracle Cloud (OCI)</b>, and bare-metal servers.</li>
         <li>📊 Full-stack observability and alerting with <b>Prometheus</b> & <b>Grafana</b>.</li>
         <li>💻 Automation tooling and backend development with <b>Python</b>, <b>Bash</b>, <b>Java</b>, and <b>.NET</b>.</li>
       </ul>
@@ -34,7 +34,7 @@
 
 | Domain | Technologies & Platforms |
 | :--- | :--- |
-| **☁️ Cloud Platforms** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /> |
+| **☁️ Cloud & Infrastructure** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" /> <img src="https://img.shields.io/badge/On--Premises-1F2937?style=for-the-badge&logo=server&logoColor=white" alt="On-Premises" /> |
 | **🐳 Containers & K8s** | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kustomize&logoColor=white" alt="Kustomize" /> |
 | **🚀 CI/CD & GitOps** | <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" /> |
 | **📊 Observability** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /> |
